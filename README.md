@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishoreRaavi
-- 👀 I’m interested in ... Software Engineering, IOT
-- 🌱 I’m currently learning ... M
+- 👀 I’m interested in ... Software Engineering, SCADA, IOT, Distribued Architecure
+- 🌱 I’m currently learning ... Distribued Architecure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kishore.rj11@gmail.com
 
